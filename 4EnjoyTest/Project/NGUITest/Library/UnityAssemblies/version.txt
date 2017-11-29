@@ -1,0 +1,24 @@
+5.5.2f1:3.1.0.0
+StandaloneWindows
+D:/tempProgramFiles/Unity552/Editor/Data/Managed/UnityEngine.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+D:/tempProgramFiles/Unity552/Editor/Data/Managed/UnityEditor.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/Editor/UnityEditor.PlaymodeTestsRunner.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll
+D:/tempProgramFiles/Unity552/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll
+D:/tempProgramFiles/Unity552/Editor/Data/Managed/UnityEditor.Graphs.dll
+D:/tempProgramFiles/Unity552/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+D:/tempProgramFiles/Unity552/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll

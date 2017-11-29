@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGUITest.Plugins", "NGUITest.Plugins.csproj", "{56A52312-5EE0-67E9-F322-8B5E39491F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGUITest", "NGUITest.csproj", "{0E7BCEBE-F4F9-2D25-2CEF-3DB5200C2003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGUITest.Editor.Plugins", "NGUITest.Editor.Plugins.csproj", "{4ACADCAF-9C56-0AFB-D37E-AEBF5DEDA3C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A52312-5EE0-67E9-F322-8B5E39491F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A52312-5EE0-67E9-F322-8B5E39491F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A52312-5EE0-67E9-F322-8B5E39491F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A52312-5EE0-67E9-F322-8B5E39491F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7BCEBE-F4F9-2D25-2CEF-3DB5200C2003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7BCEBE-F4F9-2D25-2CEF-3DB5200C2003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7BCEBE-F4F9-2D25-2CEF-3DB5200C2003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7BCEBE-F4F9-2D25-2CEF-3DB5200C2003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ACADCAF-9C56-0AFB-D37E-AEBF5DEDA3C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACADCAF-9C56-0AFB-D37E-AEBF5DEDA3C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACADCAF-9C56-0AFB-D37E-AEBF5DEDA3C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACADCAF-9C56-0AFB-D37E-AEBF5DEDA3C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
